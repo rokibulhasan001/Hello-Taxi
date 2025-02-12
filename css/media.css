@@ -1,0 +1,449 @@
+/* Extra small devices (portrait phones, less than 576px)*/ 
+@media (max-width: 575.98px) {
+	/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.logo {
+    width: 150px;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+  .btn-sign:last-child {
+    margin-left: 0;
+}
+/*banner start*/
+.b-img {
+    padding: 0 0;
+}
+.b-text {
+    padding: 25px 0 0;
+    text-align: center;
+}
+.bh1 {
+    line-height: 40px;
+    padding: 0 0 0;
+}
+.bh1 {
+     margin: 5px 0 10px;
+}
+.bh1 {
+    font-size: 33px;
+}
+.bp2 {
+    line-height: 30px;
+    padding: 0 0;
+}
+/*banner end*/
+/*feature section start*/
+.feature{
+    margin: 0 0 50px;
+}
+.f-single {
+    margin-top: 40px;
+    text-align: center;
+    padding: 40px 0 35px;
+}
+.f-img {
+    width: 45px;
+    height: 65px;
+}
+.f-h2 {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 10px 0 0;
+}
+.f-p {
+    font-size: 15px;
+}
+/*course start*/
+.course {
+    margin: 50px 0 15px;
+}
+.oc-text h2 {
+    font-size: 23px;
+    line-height: 30px;
+}
+.c-single {
+    margin-top: 55px;
+    padding: 20px 20px 25px 20px;
+  
+}
+.course-btn {
+    margin: 13px 0 20px;
+    }
+.course-btn {
+    Padding: 6px 20px 6px 20px;
+}
+.c-single {
+  margin: 40px 0 0;
+    
+}
+.c-single {
+    padding: 18px 15px 20px 15px;
+}
+.c-single h3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10px 0 3px;
+}
+.course-btn {
+    margin: 13px 0 20px;
+    Padding: 6px 20px 6px 20px;
+}
+.icon-p ul li img {
+    width: 18px;
+    height: 18px;
+}
+.left li p {
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 14px;
+}
+.right li p {
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 14px;
+}
+.icon-p ul li img {
+    margin-bottom: 3px;
+}
+/*testimonial*/
+.t-img img {
+    padding: 0 60px 15px;
+}
+.t-text {
+    text-align: center;
+}
+.testimonial {
+    padding: 30px 0 30px;
+}
+.t-text p {
+    line-height: 25px;
+}
+/*footer top start*/
+
+.footer-top {
+    padding: 45px 0 35px;
+}
+.ft-details p {
+    line-height: 25px;
+
+}
+.ft-links ul li a {
+    line-height: 25px;
+}
+.ft-details{
+    margin-bottom: 40px;
+} 
+
+.ft-details p{
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+
+}
+.ft-links {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+	
+}
+
+/* Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.logo {
+    width: 170px;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+  .btn-sign:last-child {
+    margin-left: 0;
+}
+/*banner start*/
+.b-img {
+    padding: 0 35px;
+}
+.b-text {
+    padding: 40px 0 0;
+    text-align: center;
+}
+.bh1 {
+    font-size: 44px;
+    line-height: 55px;
+    padding: 0 25px 0;
+}
+.bh1 {
+     margin: 10px 0 10px;
+}
+.bp2 {
+    padding: 0 10px;
+}
+
+/*banner end*/
+/*feature section start*/
+.feature{
+    margin: 0 0 60px;
+}
+.f-single {
+    margin-top: 30px;
+    text-align: center;
+    padding: 50px 0 45px;
+}
+.f-img {
+    width: 55px;
+    height: 75px;
+}
+.f-h2 {
+    font-size: 20px;
+    line-height: 30px;
+	
+}
+/*course start*/
+.course {
+    margin: 65px 0 15px;
+}
+.oc-text h2 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.c-single {
+    margin: 60px 50px 0;
+    
+}
+.c-single h3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 15px 0 5px;
+}
+.course-btn {
+    margin: 15px 0 25px;
+    Padding: 8px 23px 8px 23px;
+}
+.icon-p ul li img {
+    width: 20px;
+    height: 20px;
+}
+.left li p {
+    font-weight: 400;
+    line-height: 20px;
+}
+.right li p {
+    font-weight: 400;
+    line-height: 20px;
+}
+/*testimonial*/
+.testimonial {
+    padding: 50px 0 40px;
+}
+.t-img img {
+    padding: 0 150px 20px;
+}
+.t-text {
+    text-align: center;
+}
+.testimonial {
+    padding: 50px 0 39px;
+}
+.t-text p {
+    line-height: 27px;
+}
+/*footer top start*/
+
+.footer-top {
+    padding: 50px 0 40px;
+}
+.ft-details p {
+    line-height: 28px;
+
+}
+.ft-links ul li a {
+    line-height: 28px;
+}
+.ft-details{
+    margin-bottom: 40px;
+} 
+
+.ft-details p{
+    padding-right: 60px;
+    padding-left: 60px;
+    text-align: center;
+
+}
+.ft-links {
+    text-align: center;
+    margin-bottom: 30px;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/ 
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*	header start*/
+	header {
+    padding: 5px 0;
+}
+.menu ul li a {
+    margin-bottom: 5px;
+    padding: 0 12px !important;
+}
+.btn-sign {
+    padding: 7px 23px 7px 23px;
+  }
+.btn-sign:last-child {
+    margin-left: 0;
+}
+/*header end*/
+/*banner start*/
+.b-img {
+    padding: 0 50px;
+}
+.b-text {
+    padding: 40px 0 0;
+    text-align: center;
+}
+.bh1 {
+    line-height: 65px;
+    padding: 0 85px 0;
+}
+.bp2 {
+    padding: 0 70px;
+}
+.b-text {
+    text-align: center;
+}
+.f-h2 {
+    margin: 15px 0 0;
+}
+.feature {
+    margin: 0 0 70px;
+}
+/*course start*/
+.course {
+    margin: 70px 0 20px;
+ }
+.c-single {
+   margin: 60px 110px 0;
+    
+}
+.oc-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.f-single {
+    margin-top: 35px;
+}
+/*testimonial*/
+.testimonial {
+    padding: 50px 0 40px;
+}
+.t-text p {
+    line-height: 28px;
+}
+/*footer top start*/
+
+.footer-top {
+    padding: 50px 0 40px;
+}
+.ft-details p {
+    line-height: 28px;
+
+}
+.ft-links ul li a {
+    line-height: 28px;
+}
+.ft-details{
+    margin-bottom: 40px;
+} 
+
+.ft-details p{
+    padding-right: 70px;
+    padding-left: 70px;
+    text-align: center;
+
+}
+.ft-links {
+    text-align: center;
+    margin-bottom: 40px;
+}
+}
+
+/* Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.b-text {
+    padding: 30px 0 0;
+}
+.bh1 {
+    font-size: 45px;
+    line-height: 55px;
+    padding: 0 50px 0 0;
+}
+.bh1 {
+    margin: 10px 0 15px;
+}
+/*course start*/
+.c-single {
+    margin-top: 62px;
+    padding: 20px 15px 25px 15px;
+ 
+}
+.icon-p ul li img {
+    width: 20px;
+    height: 20px;
+}
+.left li p{
+    font-size: 14px;
+
+}
+.right li p{
+  font-size: 14px;
+}
+.course-btn {
+    margin: 15px 0 29px;
+    Padding: 8px 23px 8px 23px;
+}
+.feature {
+    margin: 0 0 70px;
+}
+/*footer-top*/
+
+.ft-details p {
+    padding-right: 80px;	
+}
+.ft-details p {
+    line-height: 28px;
+
+}
+.ft-links ul li a {
+    line-height: 28px;
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .bh1 {
+    padding: 0 30px 0 0;
+}
+.b-text {
+    padding: 40px 0 0;
+}
+	
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { ... }
